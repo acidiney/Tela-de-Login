@@ -1,0 +1,11 @@
+{
+  "name": "doesn't-matter",
+  "version": "0.1",
+  "scripts": {
+    "serve": "npm run http-server",
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
