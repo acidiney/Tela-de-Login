@@ -6,8 +6,7 @@ Esse é apenas uma exercicio que fiz para brincar com o css, sinta-se livre para
 
 # Aviso 
 
-Caso já tenha o node instalado na sua maquina, instale o `http-server`, seguindo o código abaixo
-`npm install --global http-server`
+Caso já tenha o node instalado na sua maquina, execute o seguinte comando para servir a página `npm run serve` e acesse o endereço [http://localhost:8080](http://localhost:8080)
 
 Logo após a instalação ter terminado entre na pasta pelo terminal e rode `http-server` isso vai gerar uma url mais agradavel
 
