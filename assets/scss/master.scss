@@ -156,12 +156,10 @@ a {
 
 
 @keyframes hoverAnimate {
-  to {
+  100% {
     transition: all .8s ease;
     letter-spacing: 2px;
     background-color: #353b48;
-  }
-   100% {
-     letter-spacing: 2px;
+    letter-spacing: 2px;
    }
 }
